@@ -13,7 +13,7 @@ sampl_freq = fs
 order = 4
 
 #cutoff frequency 
-cutoff_freq = 3000.0 
+cutoff_freq = 9000.0 
 
 #digital frequency
 Wn = 2 * cutoff_freq / sampl_freq  
