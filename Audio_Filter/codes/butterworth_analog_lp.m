@@ -1,8 +1,8 @@
 % Matlab Code for plotting analog domain butterworth filter 
 
 
-fc = 1000;
-fs = 44100;
+fc = 9000;
+fs = 48000;
 
 [b, a] = butter(4, fc/(fs/2));
 
