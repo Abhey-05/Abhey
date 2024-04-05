@@ -12,7 +12,7 @@ sampl_freq=48000
 order=4
 
 #cutoff frquency 4kHz
-cutoff_freq=3000.0 
+cutoff_freq=9000.0 
 
 #digital frequency
 Wn=2*cutoff_freq/sampl_freq  
